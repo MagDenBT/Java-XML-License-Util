@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><licence>
+    <expires>2014-07-11</expires>
+    <institution>institution</institution>
+    <uuid>11223344</uuid>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>/KGs2vb2e+FOsXsxuhuQPkYGX4cDS2h7KejWd8qjA+s=</DigestValue></Reference></SignedInfo><SignatureValue>QzYGD50fW01jfwXauPmPQ8KZCFY74IJriNir0GkCo61dmyD+gr+253dDyfw+J4quhVAWM8S3ZhIV
+GhN/eMYysOhTmnKc4iEUbxu7Kh4OEf8TXeUe9TFbT9T8DrMKBil9hmFptR9PkulvnTAg1u7iOG5U
+jorKYEbybLKu31xpAt55zFi+YEcv80x8IhRoDwBWb4PMQk7s4R8l/C9sqcpFegLwwA24G9ZSvieM
+4g3C6tBjA81qJYPCPJbiqH6YS4zQ+bvnp6XCxoa/rlqbitIplFxgCU87JYfZqQnwkRbMqi6rxsro
+MzhfoF/OGW95rCb3+yrQ1hTH5xvD7+22JmRjNQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=dodo,OU=dodo,O=dodo,L=dodo,ST=dodo,C=hr</X509SubjectName><X509Certificate>MIIDTzCCAjegAwIBAgIEXpqbFDANBgkqhkiG9w0BAQsFADBYMQswCQYDVQQGEwJocjENMAsGA1UE
+CBMEZG9kbzENMAsGA1UEBxMEZG9kbzENMAsGA1UEChMEZG9kbzENMAsGA1UECxMEZG9kbzENMAsG
+A1UEAxMEZG9kbzAeFw0xMzEyMDgxODMzNTBaFw0xNDEyMDgxODMzNTBaMFgxCzAJBgNVBAYTAmhy
+MQ0wCwYDVQQIEwRkb2RvMQ0wCwYDVQQHEwRkb2RvMQ0wCwYDVQQKEwRkb2RvMQ0wCwYDVQQLEwRk
+b2RvMQ0wCwYDVQQDEwRkb2RvMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApmIdV3+f
+FIeikbV2/+NT9fRYVNyUpFWjJHWressoTNwtTYcdHflq+2Em6+h37B9B2vBLGT3ibZEfsMga7bqs
+tTWxXRfkSpn4hJnus+kdAFFbzRAGbBdMl9JAa8WfPiI921tSdfnTdZ1Ghh0rXUKjFhWvEh9j+ORr
+EH8OObzZxbkYgO3Tc3bU57TWUqeq6jaGqLHJocjmf0Q9UDupn+PKpTm63AssCy0DQoKrghFzIXLG
+F3lfikvJKey/a7otmUEVb25io7DTTM3mSktRws/EB1WERCOJKY1KX1obBn6VIFCZwlJdoXeNAFEl
+9KBwATgkHAJmaUO16yD62aifIIttLwIDAQABoyEwHzAdBgNVHQ4EFgQUEyJm1HBasUb2sR4Vqce6
+OWU/dMAwDQYJKoZIhvcNAQELBQADggEBAH9xBOiq5r+TcYEaqzmLKHojnLS4uFvI+/iODApz5uOq
+Gvq/0eESXVk3MksL02T6Q7ut0ipAwGikCR3rlNFhl8Oaua+4dX4xFLnn17d3i389boD9Otuig341
+LPayVpYdFWnkNbora/am97zE1VZxMUwFxohuNnzpsrY0zgyYUm6UWxjfXTCcXtPbXyYi4XcaxBp3
+gxK6yf63H1qsnUt0Ru3w5rhC/2yx8AtYaRAGZs7AJ/pYDaW2Qyr9Br5bOoQBwWLlSyowEYiK3q6k
+zyAYCYV823L5v3RNUmBVK9s50hLmd3HhhbJuPQCUNxvaxHZzfvV5z2P01x2Qooa0NJvba88=</X509Certificate></X509Data></KeyInfo></Signature></licence>

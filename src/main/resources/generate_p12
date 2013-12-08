@@ -1,0 +1,4 @@
+this command is used to generate P12 certificate used for singing XML files
+
+keytool.exe -genkeypair -alias my_certificate -keystore my_keystore.pfx -storepass my_password -validity 365 -keyalg RSA -keysize 2048 -storetype pkcs12
+
